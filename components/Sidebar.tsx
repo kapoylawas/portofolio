@@ -45,7 +45,6 @@ const Sidebar = () => {
           <span>Indonesia, City: Sidoarjo</span>
         </div>
         <p className="my-2">arif.sangga@gmail.com</p>
-        <p className="my-2">085733517044</p>
       </div>
       {/* email button */}
       <button
