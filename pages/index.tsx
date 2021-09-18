@@ -17,7 +17,6 @@ const About: NextPage = () => {
       <h6 className="my-3 text-base font-medium">
         I am currently in Computer Science
         Engineering from Academy of Technology. I have 3+ years of experience in
-        Web Development and I have a Youtube Channel where I teach Full Stack
         Web Development
       </h6>
       <div
