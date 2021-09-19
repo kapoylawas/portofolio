@@ -1,4 +1,4 @@
-import { Service, Skill } from "./type";
+import { IProject, Service, Skill } from "./type";
 import { RiComputerLine } from "react-icons/ri";
 import { FaServer } from "react-icons/fa";
 import { AiOutlineAntDesign, AiOutlineApi } from "react-icons/ai";
@@ -97,4 +97,18 @@ export const tools: Skill[] = [
     name: "Framer",
     level: "45",
   },
+];
+
+export const project: IProject[] = [
+{
+  name: "ADMIN JERSIPEDIA",
+  description:
+    "This app shows a web admin to mobile jerseypedia",
+  image_path: "/images/adminjs.png",
+  deployed_url: "https://adminjspedia.netlify.app/",
+  github_url: "https://adminjspedia.netlify.app/",
+  category: ["react"],
+  key_techs: ["React", "Chart.js", "Material UI"],
+},
+
 ];
