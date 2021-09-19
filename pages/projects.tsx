@@ -2,7 +2,7 @@ import { useState } from "react";
 import ProjectCard from "../components/ProjectCard";
 import ProjectsNavbar from "../components/ProjectsNavbar";
 import { project as projectsData } from "../data";
-import { Category } from "../types";
+import { Category } from "../type";
 
 const projects = () => {
   const [project, setProjects] = useState(projectsData);
