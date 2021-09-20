@@ -35,7 +35,7 @@ const Sidebar = () => {
             <AiFillYoutube className="w-8 h-8 text-red-600 cursor-pointer" />
           </a>
           <a href="">
-            <AiFillGithub className="w-8 h-8 text-black cursor-pointer" />
+            <AiFillGithub className="w-8 h-8 cursor-pointer text-blue" />
           </a>
           <a href="">
             <AiFillLinkedin className="w-8 h-8 text-blue-400 cursor-pointer" />
