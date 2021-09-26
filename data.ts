@@ -110,5 +110,15 @@ export const project: IProject[] = [
   category: ["react"],
   key_techs: ["React", "Chart.js", "Material UI"],
 },
+{
+  name: "Penggalangan Dana",
+  description:
+    "This app shows a web admin to mobile jerseypedia",
+  image_path: "/images/dana.png",
+  deployed_url: "https://github.com/kapoylawas/penggalangan-dana",
+  github_url: "https://github.com/kapoylawas/penggalangan-dana",
+  category: ["react"],
+  key_techs: ["React", "atomic design", "Bootstarp"],
+},
 
 ];
