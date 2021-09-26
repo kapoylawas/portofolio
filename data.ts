@@ -113,12 +113,22 @@ export const project: IProject[] = [
 {
   name: "Penggalangan Dana",
   description:
-    "This app shows a web admin to mobile jerseypedia",
+    "This app shows a web charity social",
   image_path: "/images/dana.png",
   deployed_url: "https://github.com/kapoylawas/penggalangan-dana",
   github_url: "https://github.com/kapoylawas/penggalangan-dana",
   category: ["react"],
   key_techs: ["React", "atomic design", "Bootstarp"],
+},
+{
+  name: "Penjualan Koperasi",
+  description:
+    "This app point of sale",
+  image_path: "/images/sale.png",
+  deployed_url: "https://github.com/kapoylawas/penjualan",
+  github_url: "https://github.com/kapoylawas/penjualan",
+  category: ["laravel"],
+  key_techs: ["Laravel", "ajax", "Bootstarp"],
 },
 
 ];
