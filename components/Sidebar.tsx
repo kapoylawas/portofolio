@@ -14,7 +14,7 @@ const Sidebar = () => {
     <>
       <div>
         <img
-          src="https://scontent-sin6-4.xx.fbcdn.net/v/t1.18169-9/11082561_951891674835726_7435194629227167698_n.jpg?_nc_cat=100&ccb=1-5&_nc_sid=09cbfe&_nc_ohc=jw-bpLY8XyQAX8Y2b_a&_nc_ht=scontent-sin6-4.xx&oh=d9dd209e9e5141e16a1e8a1d840280b4&oe=6148AA42"
+          src="https://scontent.fsub8-1.fna.fbcdn.net/v/t1.18169-1/p320x320/11082561_951891674835726_7435194629227167698_n.jpg?_nc_cat=100&ccb=1-5&_nc_sid=7206a8&_nc_ohc=1KYjqUDj0rAAX9mvlsK&_nc_ht=scontent.fsub8-1.fna&oh=7fdc61a94ad4b9e56f85ad0a2d22931b&oe=6174D2A8"
           alt="user avatar"
           className="w-32 h-32 mx-auto rounded-full"
         />
