@@ -37,7 +37,7 @@ const Sidebar = () => {
           <a href="https://github.com/kapoylawas">
             <AiFillGithub className="w-8 h-8 cursor-pointer text-blue" />
           </a>
-          <a href="linkedin.com/in/arief-sangga-utama">
+          <a href="https://www.linkedin.com/in/arief-sangga-utama/">
             <AiFillLinkedin className="w-8 h-8 text-blue-400 cursor-pointer" />
           </a>
         </div>
