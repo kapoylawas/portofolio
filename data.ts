@@ -130,5 +130,15 @@ export const project: IProject[] = [
   category: ["laravel"],
   key_techs: ["Laravel", "ajax", "Bootstarp"],
 },
+{
+  name: "Backend Store Voucher Game",
+  description:
+    "This app Backend Store Voucher Game and API Develpoment",
+  image_path: "/images/gaming.png",
+  deployed_url: "http://store-gg.herokuapp.com/",
+  github_url: "https://github.com/kapoylawas/storeGG",
+  category: ["node"],
+  key_techs: ["Node.JS", "Bootstarp", "mongoDB"],
+},
 
 ];
