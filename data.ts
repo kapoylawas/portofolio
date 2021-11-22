@@ -140,5 +140,15 @@ export const project: IProject[] = [
   category: ["node"],
   key_techs: ["Node.JS", "Bootstarp", "mongoDB"],
 },
+{
+  name: "Frondend Store Voucher Game",
+  description:
+    "This app Frondend Store Voucher Game",
+  image_path: "/images/frondendGG.png",
+  deployed_url: "https://voucher-gaming-lime.vercel.app/",
+  github_url: "https://github.com/kapoylawas/storeGG",
+  category: ["react"],
+  key_techs: ["NextJS", "Bootstarp", "mongoDB"],
+},
 
 ];
