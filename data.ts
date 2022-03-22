@@ -153,12 +153,22 @@ export const project: IProject[] = [
 {
   name: "Apps E-rapor",
   description:
-    "This app Frondend Store Voucher Game",
+    "This app Erapor",
   image_path: "/images/e-rapor.png",
   deployed_url: "https://erapot.herokuapp.com/signin",
   github_url: "https://github.com/kapoylawas/e-rapot-sma",
   category: ["node"],
   key_techs: ["Node.JS", "Bootstarp", "PGsql"],
+},
+{
+  name: "Backend API Apps toko buku",
+  description:
+    "This back end toko buku",
+  image_path: "/images/api-buku.png",
+  deployed_url: "https://backendbokobuku.herokuapp.com/",
+  github_url: "https://github.com/kapoylawas/be_toko_buku",
+  category: ["node"],
+  key_techs: ["Node.JS", "PGsql"],
 },
 
 ];
