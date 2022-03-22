@@ -150,5 +150,15 @@ export const project: IProject[] = [
   category: ["react"],
   key_techs: ["NextJS", "Bootstarp", "mongoDB"],
 },
+{
+  name: "Apps E-rapor",
+  description:
+    "This app Frondend Store Voucher Game",
+  image_path: "/images/e-rapor.png",
+  deployed_url: "https://erapot.herokuapp.com/signin",
+  github_url: "https://github.com/kapoylawas/e-rapot-sma",
+  category: ["node"],
+  key_techs: ["Node.JS", "Bootstarp", "PGsql"],
+},
 
 ];
